@@ -23,5 +23,7 @@ void main()
 	area=pi*r*r;	//calculate the area
 
 	printf("The area of the circle is: %.2f",area);	//out put the area.
+
+	printf("This is a test comment\n");
 }
 
